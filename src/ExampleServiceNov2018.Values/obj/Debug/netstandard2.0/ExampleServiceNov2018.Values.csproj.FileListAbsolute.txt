@@ -1,0 +1,17 @@
+C:\dev\Lab\ExampleServiceNov2018\ExampleServiceNov2018.Values\bin\Debug\netstandard2.0\ExampleServiceNov2018.Values.deps.json
+C:\dev\Lab\ExampleServiceNov2018\ExampleServiceNov2018.Values\bin\Debug\netstandard2.0\ExampleServiceNov2018.Values.dll
+C:\dev\Lab\ExampleServiceNov2018\ExampleServiceNov2018.Values\bin\Debug\netstandard2.0\ExampleServiceNov2018.Values.pdb
+C:\dev\Lab\ExampleServiceNov2018\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.csproj.CoreCompileInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.AssemblyInfoInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.AssemblyInfo.cs
+C:\dev\Lab\ExampleServiceNov2018\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.dll
+C:\dev\Lab\ExampleServiceNov2018\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\bin\Debug\netstandard2.0\ExampleServiceNov2018.Values.deps.json
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\bin\Debug\netstandard2.0\ExampleServiceNov2018.Values.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\bin\Debug\netstandard2.0\ExampleServiceNov2018.Values.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.csproj.CoreCompileInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.AssemblyInfoInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.AssemblyInfo.cs
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Values\obj\Debug\netstandard2.0\ExampleServiceNov2018.Values.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.CommandStack\obj\project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">C:\dev\Lab\ExampleServiceNov2018\packages</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\dev\Lab\ExampleServiceNov2018\packages;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">4.9.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+</Project>

@@ -1,6 +1,8 @@
-﻿using ExampleServiceNov2018.Application;
-using ExampleServiceNov2018.Infrastructure;
-using ExampleServiceNov2018.ReadService;
+﻿using ExampleServiceNov2018.Command.Model;
+using ExampleServiceNov2018.Command.Persistense;
+using ExampleServiceNov2018.CommandStack;
+using ExampleServiceNov2018.Query.Model;
+using ExampleServiceNov2018.Query.Persistense;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -14,7 +16,7 @@ namespace ExampleServiceNov2018.Api
     public class Startup
     {
         private const string _connectionString =
-            "Server=.\\sqlexpress; Database=Todolist; Trusted_Connection=True;";
+            @"Data Source=HBH-PC\SQLEXPRESS;Initial Catalog=TestDB;Trusted_Connection=True;";
 
         private static readonly MsSqlStreamStoreSettings _msSqlStreamStoreSettings
             = new MsSqlStreamStoreSettings(_connectionString);
@@ -26,9 +28,8 @@ namespace ExampleServiceNov2018.Api
             services.AddMvc();
             //Register infrastructure
             SetupStreamStore(services);
-            services.AddScoped<ITodoListRepository, TodoListRepositoryRepository>();
-            ;
-            services.AddScoped<TodoCommandHandler>();
+            services.AddScoped<IUnitOfWorkService, UnitOfWorkService>();
+            services.AddScoped<ITodoReadService, TodoReadService>();
 
             //Register projections and readservices
             services.AddSingleton(
@@ -37,8 +38,7 @@ namespace ExampleServiceNov2018.Api
 
             //Register mediator
             services.AddMediatR();
-            services.AddMediatR(typeof(ApplicationLayer).Assembly);
-            services.AddMediatR(typeof(TodoReadService).Assembly);
+            services.AddMediatR(typeof(TodoCommandHandler).Assembly);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,0 +1,4 @@
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Persistence\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Persistence.csprojAssemblyReference.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Persistence\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Persistence.csproj.CoreCompileInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Persistence\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Persistence.AssemblyInfoInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Persistence\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Persistence.AssemblyInfo.cs

@@ -1,0 +1,16 @@
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.deps.json
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Commands.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Events.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Values.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Commands.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Events.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Values.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.csprojAssemblyReference.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.csproj.CoreCompileInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.AssemblyInfoInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.AssemblyInfo.cs
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.csproj.CopyComplete
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Command.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Command.Model.pdb

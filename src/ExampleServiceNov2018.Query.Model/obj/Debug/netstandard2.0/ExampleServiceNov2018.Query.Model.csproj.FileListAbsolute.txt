@@ -1,0 +1,9 @@
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.deps.json
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\bin\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.csproj.CoreCompileInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.AssemblyInfoInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.AssemblyInfo.cs
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.Query.Model\obj\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.csprojAssemblyReference.cache

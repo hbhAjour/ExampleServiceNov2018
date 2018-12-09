@@ -11,9 +11,9 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ExampleServiceNov2018.Application\ExampleServiceNov2018.Application.csproj" />
-    <ProjectReference Include="..\ExampleServiceNov2018.Infrastructure\ExampleServiceNov2018.Infrastructure.csproj" />
-    <ProjectReference Include="..\ExampleServiceNov2018.ReadService\ExampleServiceNov2018.ReadService.csproj" />
+    <ProjectReference Include="..\ExampleServiceNov2018.Command.Persistence\ExampleServiceNov2018.Command.Persistence.csproj" />
+    <ProjectReference Include="..\ExampleServiceNov2018.CommandStack\ExampleServiceNov2018.CommandStack.csproj" />
+    <ProjectReference Include="..\ExampleServiceNov2018.Query.Persistence\ExampleServiceNov2018.Query.Persistence.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="SqlStreamStore, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null">

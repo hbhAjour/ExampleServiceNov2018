@@ -1,5 +1,5 @@
 using System.Threading.Tasks;
-using ExampleServiceNov2018.ReadService;
+using ExampleServiceNov2018.Query.Model;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,23 +8,23 @@ namespace ExampleServiceNov2018.Api.Controllers
     [Route("todo/read")]
     public class TodoReadController : Controller
     {
-        private readonly IMediator _mediator;
+        protected ITodoReadService ToDoReader { get; }
 
-        public TodoReadController(IMediator mediator)
+        public TodoReadController(ITodoReadService toDoReader)
         {
-            _mediator = mediator;
+            ToDoReader = toDoReader;
         }
 
         [HttpGet("All")]
         public async Task<TodoListCollectionDTO> GetAll()
         {
-            return await _mediator.Send(new ListAllItems());
+            return await ToDoReader.ListAll();
         }
 
         [HttpGet("ById/{aggregateId}")]
         public async Task<TodoListDTO> GetByIId([FromRoute] string aggregateId)
         {
-            return await _mediator.Send(new GetTodoListById {AggregateId = aggregateId});
+            return await ToDoReader.GetByAggregateId(aggregateId);
         }
     }
 }

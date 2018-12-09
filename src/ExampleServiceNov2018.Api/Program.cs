@@ -8,7 +8,7 @@ namespace ExampleServiceNov2018.Api
         public static void Main(string[] args)
         {
             //Assertions:
-            ReadService.CommitBatchPolicy.AssertShouldCommit();
+            //ReadService.CommitBatchPolicy.AssertShouldCommit();
             
             
             CreateWebHostBuilder(args).Build().Run();

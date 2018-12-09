@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExampleServiceNov2018.Command.Model\ExampleServiceNov2018.Command.Model.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SqlStreamStore">
+      <HintPath>..\..\libs\SqlStreamStore_LatestKnownHead_FeatureBranch\SqlStreamStore.dll</HintPath>
+    </Reference>
+    <Reference Include="SqlStreamStore.MsSql">
+      <HintPath>..\..\libs\SqlStreamStore_LatestKnownHead_FeatureBranch\SqlStreamStore.MsSql.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

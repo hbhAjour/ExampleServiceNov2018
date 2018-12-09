@@ -1,0 +1,12 @@
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\bin\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.deps.json
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\bin\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\bin\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\bin\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\bin\Debug\netstandard2.0\ExampleServiceNov2018.Query.Model.pdb
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\obj\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.csprojAssemblyReference.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\obj\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.csproj.CoreCompileInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\obj\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.AssemblyInfoInputs.cache
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\obj\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.AssemblyInfo.cs
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\obj\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.csproj.CopyComplete
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\obj\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.dll
+C:\dev\Lab\ExampleServiceNov2018\src\ExampleServiceNov2018.QueryStack\obj\Debug\netstandard2.0\ExampleServiceNov2018.QueryStack.pdb

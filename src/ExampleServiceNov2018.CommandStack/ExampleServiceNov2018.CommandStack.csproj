@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExampleServiceNov2018.Command.Model\ExampleServiceNov2018.Command.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
-using ExampleServiceNov2018.Application;
-using ExampleServiceNov2018.Domain.Commands;
+using ExampleServiceNov2018.Commands.TodoList;
+using ExampleServiceNov2018.Commands;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
@@ -17,25 +17,25 @@ namespace ExampleServiceNov2018.Api.Controllers
         }
 
         [HttpPost("NameTodoList")]
-        public async Task<CommandResult> NameTodoItem([FromBody] Cmd<NameTodoList> cmd)
+        public async Task<CommandResult> NameTodoItem([FromBody] NameTodoList cmd)
         {
             return await _mediator.Send(cmd);
         }
 
         [HttpPost("AddTodoItem")]
-        public async Task<CommandResult> AddTodoItem([FromBody] Cmd<AddTodoItem> cmd)
+        public async Task<CommandResult> AddTodoItem([FromBody] AddTodoItem cmd)
         {
             return await _mediator.Send(cmd);
         }
 
         [HttpPost("CheckTodoItem")]
-        public async Task<CommandResult> NewTodoList([FromBody] Cmd<CheckTodoItem> cmd)
+        public async Task<CommandResult> NewTodoList([FromBody] CheckTodoItem cmd)
         {
             return await _mediator.Send(cmd);
         }
 
         [HttpPost("UncheckTodoItem")]
-        public async Task<CommandResult> NewTodoList([FromBody] Cmd<UncheckTodoItem> cmd)
+        public async Task<CommandResult> NewTodoList([FromBody] UncheckTodoItem cmd)
         {
             return await _mediator.Send(cmd);
         }
